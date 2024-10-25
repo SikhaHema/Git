@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Had ur breakfast
+=======
+what are u doing
+>>>>>>> Rose
